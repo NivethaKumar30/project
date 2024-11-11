@@ -1,9 +1,13 @@
 # project
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
+
 i) Extract ROI from  an image.
+
 ii) Perform handwritting detection in an image.
+
 iii) Perform object detection with label in an image.
+
 ## Software Required:
 Anaconda - Python 3.7
 ## Algorithm:
@@ -135,17 +139,13 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ### I)Perform ROI from an image:
 ![Screenshot 2024-11-10 125534](https://github.com/user-attachments/assets/edac967c-f2b9-45e6-a7be-91f2a4dd4360)
 
-
 ### II)Perform handwritting detection in an image:
 
 ![Screenshot 2024-11-10 125545](https://github.com/user-attachments/assets/ea9019bc-d9b2-4f86-bd1c-ca2b1b2c9851)
-
 
 ### III)Perform object detection with label in an image:
 
 ![Screenshot 2024-11-10 125555](https://github.com/user-attachments/assets/ed96f2c7-d3e2-4be8-bbe9-9cf70973906a)
 
-
 ## Result:
 Thus, The python program using OpenCV to do the image manipulations is executed successfully.
-
