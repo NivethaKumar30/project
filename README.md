@@ -1,4 +1,4 @@
-# project : OBJECT DETECTION 
+# PROJECT  : OBJECT DETECTION 
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
 
